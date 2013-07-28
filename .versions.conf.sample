@@ -1,0 +1,4 @@
+ruby=ruby-2.0.0-p0
+ruby-gemset=activerecord-serialize_coders
+#ruby-gem-install=bundler rake
+#ruby-bundle-install=true
